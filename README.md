@@ -1,2 +1,2 @@
 # StockMarketPrediction
-New Updates to come really soon!
+Might take some time to get back to develop this.... Learning things for now...
